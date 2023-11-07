@@ -1,0 +1,26 @@
+h1{color: pink;}
+h1{text-align: center;}
+p{text-align: center;}
+p{margin-left: 9%;}
+p{font-size: 150%;}
+
+#greta1{width: 40%;}
+#greta1{margin-left: 9%;}
+#greta1{border: solid color(navy );}
+
+#greta2{width: 30%;}
+#greta2{margin-left: 5%;}
+#greta2{border: solid color(rgb(126, 59, 59));}
+
+#greta3{width: 38%;}
+#greta3{margin-top: 2%;}
+#greta3{margin-left: 9%;}
+#greta3{border: solid color(beige);}
+
+#greta4{width: 40%;}
+#greta4{margin-left: 5%;}
+#greta4{border: solid color(pink);}
+
+body{
+    background-color: cadetblue;
+}
